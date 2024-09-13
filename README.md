@@ -13,4 +13,4 @@ and check how many tasks are remaining incorrect.
 
 ## Upcoming task:
 Get the best 2 attempts from icecube, alejandro, 6solvers
-Update the code from that Github to solve the remaining
+Update the code from that Github to solve the remaining`
