@@ -12,5 +12,8 @@ https://github.com/alejandrodemiquel/ARC_Kaggle.git
 and check how many tasks are remaining incorrect.
 
 ## Upcoming task:
+Investigate the method to score
+Score the alejandro
 Get the best 2 attempts from icecube, alejandro, 6solvers
-Update the code from that Github to solve the remaining`
+
+Update the code from that Github to solve the remaining task
